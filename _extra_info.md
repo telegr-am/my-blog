@@ -1,6 +1,7 @@
 ---
 blog_root: /blog_posts
 site_title: My Blog
+has_blog: true
 
 ---
 
