@@ -9,6 +9,7 @@ Welcome to my blog.  Here are my most recent blog posts:
     	<div style="padding-left: 15px;" data-post="shortcontent">
 			Post Content goes here
     </div>
+    <div data-post="more"><a href="#">Read More...</a></div>
     <hr>
     </li>
 </ul>
